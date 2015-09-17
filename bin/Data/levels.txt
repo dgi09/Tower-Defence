@@ -1,0 +1,11 @@
+10
+Levels/Level1 0
+Levels/Level2 0
+Levels/Level1 0
+Levels/Level2 3
+Levels/Level1 0
+Levels/Level2 3
+Levels/Level1 0
+Levels/Level2 3
+Levels/Level1 0
+Levels/Level2 3

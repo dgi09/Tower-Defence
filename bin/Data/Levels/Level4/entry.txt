@@ -1,0 +1,9 @@
+100
+100
+4
+stoneTower 40 20 300 7 1000
+coldTower 50 20 300 7 1000 2000 1
+newRow
+fireTower 10 20 300 7 1000 10 2000 500
+meteorTower 30 10 30 300 7 1000  
+
